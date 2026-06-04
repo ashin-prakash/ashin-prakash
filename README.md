@@ -95,11 +95,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/ashinprakash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashinprakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/ashin-prakash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashin-prakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/ashinprakash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinprakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/ashin-prakash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashin-prakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -110,7 +110,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashinprakash&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashin-prakash&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,7 +120,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Ashin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashinprakash&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashinprakash)
+[![Ashin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashin-prakash&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashin-prakash)
 
 </div>
 
@@ -130,7 +130,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ashinprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ashin-prakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -243,9 +243,9 @@ print(me.motto())
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ashinprakash04748%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashinprakash04748@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashin_Prakash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashinprakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashin_Prakash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashin-prakash)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_8075108664-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918075108664)
-[![Profile Views](https://komarev.com/ghpvc/?username=ashinprakash&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ashinprakash)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashin-prakash&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ashin-prakash)
 
 </div>
 
